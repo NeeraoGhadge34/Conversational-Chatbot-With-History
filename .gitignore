@@ -1,0 +1,37 @@
+# Environment variables (keeps credentials safe)
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (don't commit large datasets)
+data/
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+
+# Model files
+models/
+*.pkl
+*.joblib
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
