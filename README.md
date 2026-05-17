@@ -74,8 +74,8 @@ Groq LLM Response
 ## 1. Clone Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/NeeraoGhadge34/Conversational-Chatbot-With-History/tree/main
+cd Conversational-Chatbot-With-History
 ```
 
 ---
